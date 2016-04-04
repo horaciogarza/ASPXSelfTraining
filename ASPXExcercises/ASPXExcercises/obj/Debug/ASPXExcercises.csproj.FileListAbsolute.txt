@@ -1,0 +1,5 @@
+c:\users\cgarzaho\documents\visual studio 2012\Projects\ASPXExcercises\ASPXExcercises\bin\ASPXExcercises.dll
+c:\users\cgarzaho\documents\visual studio 2012\Projects\ASPXExcercises\ASPXExcercises\bin\ASPXExcercises.pdb
+c:\users\cgarzaho\documents\visual studio 2012\Projects\ASPXExcercises\ASPXExcercises\obj\Debug\ASPXExcercises.csprojResolveAssemblyReference.cache
+c:\users\cgarzaho\documents\visual studio 2012\Projects\ASPXExcercises\ASPXExcercises\obj\Debug\ASPXExcercises.dll
+c:\users\cgarzaho\documents\visual studio 2012\Projects\ASPXExcercises\ASPXExcercises\obj\Debug\ASPXExcercises.pdb
